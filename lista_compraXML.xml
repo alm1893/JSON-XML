@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<Supermercado>
+		<Super1>
+			<Nombre>Mercadona</Nombre>
+			<Direccion>Calle de Ayala 89</Direccion>
+			<Coordenadas>40°.42'72.7"3°67'28.4</Coordenadas>
+			<Lugar>Madrid</Lugar>
+			<Productos>
+				<Hogar>
+					<Nombre>Papel Cocina</Nombre>
+					<Oferta>
+						<EsOferta>false</EsOferta>
+						<TipoOrferta>N/A</TipoOrferta>
+						<FechaValidez>N/A</FechaValidez>
+					</Oferta>
+					<Unidades>1</Unidades>
+					<Precio>1.50€</Precio>
+					<Adquirido>false</Adquirido>
+				</Hogar>
+			</Productos>
+			<Productos>
+				<Higiene>
+					<Nombre>Champú</Nombre>
+					<Oferta>
+						<EsOferta>true</EsOferta>
+						<TipoOferta>2x1</TipoOferta>
+						<FechaValidez>10/4/2022</FechaValidez>
+					</Oferta>
+					<Unidaes>4</Unidaes>
+					<Precio>2.50€</Precio>
+					<Adquirido>false</Adquirido>
+				</Higiene>
+				<Higiene>
+					<Nombre>Gel de ducha</Nombre>
+					<Oferta>
+						<EsOferta>false</EsOferta>
+						<TipoOferta>N/A</TipoOferta>
+						<FechaValidez>N/A</FechaValidez>
+					</Oferta>
+					<Unidaes>2</Unidaes>
+					<Precio>1.80€</Precio>
+					<Adquirido>false</Adquirido>
+				</Higiene>
+			</Productos>
+		</Super1>
+		<Super2>
+			<Nombre>Día</Nombre>
+			<Direccion>Calle del General Díaz Porlier 33</Direccion>
+			<Coordenadas>40°.42'80"3°67'72.2</Coordenadas>
+			<Lugar>Madrid</Lugar>
+			<Productos>
+				<Verdura>
+					<Nombre>Puerro</Nombre>
+					<Peso>1Kg</Peso>
+					<Precio>0.50€/Kg</Precio>
+					<Adquirido>false</Adquirido>
+				</Verdura>
+				<Verdura>
+					<Nombre>Tomate</Nombre>
+					<Variedad>Raft</Variedad>
+					<Peso>3Kg</Peso>
+					<Precio>1.90€/Kg</Precio>
+					<Adquirido>false</Adquirido>
+				</Verdura>
+			</Productos>
+		</Super2>
+	</Supermercado>
